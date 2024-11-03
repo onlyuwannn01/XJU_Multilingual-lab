@@ -2,7 +2,7 @@
 基于RoBERTa的中文NER
 # RoBERTa-BiLSTM-Attention-CRF
 ## 模型架构
-![RoBERTa-BiLSTM-Attention-CRF.svg](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4ab6ab8b749246caaf1a8fda08c5f7ba~tplv-k3u1fbpfcp-watermark.image?)
+![RoBERTa-BiLSTM-Attention-CRF.svg]
 ### RoBERTa层
 采用预训练语言模型ERNIE对输入的文本数据进行向量化表示
 ### BiLSTM
